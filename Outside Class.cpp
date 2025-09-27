@@ -10,7 +10,7 @@ class Student
 
 void Student::myMethod()
 {
-    cout<<"I am Aditya";
+    cout<<"I am Anavi";
 }
 
 int main()
